@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Scraper</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        #app {
+            background: white;
+            width: 100%;
+            height: 100%;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: start;
+            gap: 10px;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #28a745;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:disabled {
+            background-color: #ccc;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 20px;
+            background: white;
+            display: grid;
+            width: 100%;
+            height: auto;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }
+        .result-item {
+            background: #e9ecef;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .result-item > ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>Necta Results Scraper</h1>
+        <p style="font-size: 12px">Go to aspecific school, copy the url then paste it here</p>
+        <input type="text" id="url-input" placeholder="Enter URL" />
+        <button id="scrape-button">Scrape Data</button>
+        <div id="results" class="result"></div>
+    </div>
+    <script>
+        document.getElementById('scrape-button').addEventListener('click', async () => {
+            const url = document.getElementById('url-input').value;
+            if (!url) {
+                alert('Please enter a URL');
+                return;
+            }
+
+            document.getElementById('scrape-button').disabled = true;
+
+            try {
+                const response = await fetch(`/api/results?url=${encodeURIComponent(url)}`);
+                if (!response.ok) {
+                    throw new Error('Failed to fetch results');
+                }
+
+                const data = await response.json();
+                displayResults(data);
+            } catch (error) {
+                alert('Error: ' + error.message);
+            } finally {
+                document.getElementById('scrape-button').disabled = false;
+            }
+        });
+
+        function displayResults(data) {
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = '';
+
+            if (data.length === 0) {
+                resultsContainer.textContent = 'No results found';
+                return;
+            }
+
+            data.forEach(item => {
+                const resultItem = document.createElement('div');
+                resultItem.className = 'result-item';
+
+                const examNumber = document.createElement('p');
+                examNumber.textContent = `Exam Number: ${item.examNumber}`;
+                resultItem.appendChild(examNumber);
+
+                const points = document.createElement('p');
+                points.textContent = `Points: ${item.points}`;
+                resultItem.appendChild(points);
+
+                const division = document.createElement('p');
+                division.textContent = `Division: ${item.division}`;
+                resultItem.appendChild(division);
+
+                const subjects = document.createElement('p');
+                subjects.textContent = 'Subjects:';
+                resultItem.appendChild(subjects);
+
+                const subjectsList = document.createElement('ul');
+                item.subjects.forEach(subject => {
+                    const subjectItem = document.createElement('li');
+                    subjectItem.textContent = `${subject.subject}: ${subject.grade}`;
+                    subjectsList.appendChild(subjectItem);
+                });
+                resultItem.appendChild(subjectsList);
+
+                resultsContainer.appendChild(resultItem);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,8612 @@
+[
+  {
+    "examNumber": "CNO",
+    "points": null,
+    "division": "DIV",
+    "subjects": [
+      {
+        "subject": "N/A",
+        "grade": "N/A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0001",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "D"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0002",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0003",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0004",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0005",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0006",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0007",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0008",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0009",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0010",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0011",
+    "points": 20,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0012",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0013",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0014",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0015",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0016",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0017",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0018",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0019",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0020",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0021",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0022",
+    "points": 21,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0023",
+    "points": 21,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "D"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0024",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0025",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0026",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0027",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0028",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0029",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0030",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0031",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0032",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0033",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0034",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0035",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0036",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0037",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0038",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0039",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0040",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0041",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0042",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0043",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0044",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0045",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0046",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0047",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0048",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0049",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0050",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0051",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0052",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0053",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0054",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0055",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0056",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0057",
+    "points": 20,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0058",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0059",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0060",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0061",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0062",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0063",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0064",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0065",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0066",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0067",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0068",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0069",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0070",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0071",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0072",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0073",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0074",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0075",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0076",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0077",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0078",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0079",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0080",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0081",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0082",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0083",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0084",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0085",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0086",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0087",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0088",
+    "points": 21,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0089",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0090",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0091",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0092",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0093",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0094",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0095",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0096",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0097",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0098",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0099",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0100",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0101",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0102",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0103",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0104",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0105",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0106",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0107",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0108",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0109",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0110",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0111",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0112",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0113",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0114",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0115",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0116",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0117",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0118",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0119",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0120",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0121",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0122",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0123",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0124",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0125",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0126",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0127",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0128",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0129",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0130",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "D"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0131",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0132",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0133",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0134",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0135",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0136",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0137",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0138",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0139",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0140",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0141",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0142",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0143",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0144",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0145",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0146",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0147",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0148",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "D"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0149",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0150",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0151",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0152",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0153",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0154",
+    "points": 20,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0155",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0156",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0157",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "A"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0158",
+    "points": 22,
+    "division": "III",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "D"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0159",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0160",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0161",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0162",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0163",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0164",
+    "points": 19,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0165",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0166",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0167",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "D"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0168",
+    "points": 14,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0169",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0170",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0171",
+    "points": 18,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0172",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0173",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0174",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0175",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0176",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "B"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0177",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0178",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0179",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0180",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0181",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0182",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0183",
+    "points": 11,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0184",
+    "points": 7,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "A"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0185",
+    "points": 16,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0186",
+    "points": 15,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0187",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0188",
+    "points": 8,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0189",
+    "points": 20,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0190",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      },
+      {
+        "subject": "B/KEEPING",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0191",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0192",
+    "points": 20,
+    "division": "II",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "D"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "C"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "C"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "C"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0193",
+    "points": 17,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "C"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "C"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0194",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0195",
+    "points": 13,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0196",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "C"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      },
+      {
+        "subject": "COMM",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0197",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0198",
+    "points": 10,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "B"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0199",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "B"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0200",
+    "points": 12,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "B"
+      },
+      {
+        "subject": "HIST",
+        "grade": "B"
+      },
+      {
+        "subject": "GEO",
+        "grade": "B"
+      },
+      {
+        "subject": "KISW",
+        "grade": "B"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "A"
+      },
+      {
+        "subject": "ENG",
+        "grade": "B"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "examNumber": "S3905/0201",
+    "points": 9,
+    "division": "I",
+    "subjects": [
+      {
+        "subject": "CIV",
+        "grade": "C"
+      },
+      {
+        "subject": "HIST",
+        "grade": "A"
+      },
+      {
+        "subject": "GEO",
+        "grade": "A"
+      },
+      {
+        "subject": "KISW",
+        "grade": "A"
+      },
+      {
+        "subject": "ENGL",
+        "grade": "B"
+      },
+      {
+        "subject": "PHY",
+        "grade": "C"
+      },
+      {
+        "subject": "CHEM",
+        "grade": "A"
+      },
+      {
+        "subject": "BIO",
+        "grade": "A"
+      },
+      {
+        "subject": "B/MATH",
+        "grade": "B"
+      }
+    ]
+  }
+]
