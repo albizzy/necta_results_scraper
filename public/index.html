@@ -9,7 +9,14 @@
 <body>
     <div id="app">
         <h1>Necta Results Scraper</h1>
-        <p style="font-size: 12px">Go to aspecific school, copy the url then paste it here</p>
+        <div class="quick-links-container">
+            <h3 class="">Quick links</h3>
+            <div class="quick-links-wrapper">
+                <a rel="norefferer" target="_blank" href="https://matokeo.necta.go.tz/results/2023/csee/CSEE%202023.htm">CSEE 2023</a>
+                <a rel="norefferer" target="_blank" href="https://matokeo.necta.go.tz/results/2023/acsee/index.htm">ACSEE 2023</a>
+            </div>
+        </div>
+        <p style="font-size: 12px">Go to a specific school, copy the url then paste it here</p>
         <input type="text" id="url-input" placeholder="Enter URL" />
         <button id="scrape-button">Scrape Data</button>
         <div id="results" class="result"></div>
